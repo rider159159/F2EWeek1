@@ -101,6 +101,8 @@ onMounted(() => {
         </div>
       </div>
     </section>
+    <!-- 區塊二 -->
+    <Section2></Section2>
   </div>
 </template>
 
