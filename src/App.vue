@@ -15,7 +15,36 @@ function checkBodyWidth(){
   }
 }
 
+function elfScroll(){
+  gsap.to(".elf-1", {
+    top: 0,
+    duration: .5,
+    scrollTrigger: {
+      trigger: ".elf-1", //觸發得物件
+      toggleActions: "restart none none none",
+    }
+  })
+  gsap.to(".elf-2", {
+    bottom: 0,
+    duration: .5,
+    scrollTrigger: {
+      trigger: ".elf-2", //觸發得物件
+      toggleActions: "restart none none none",
+    }
+  })
+  gsap.to(".elf-3", {
+    bottom: 0,
+    duration: .5,
+    delay: 0.5,
+    scrollTrigger: {
+      trigger: ".elf-3", //觸發得物件
+      toggleActions: "restart none none none",
+    }
+  })
+}
+
 onMounted(() => {
+  checkBodyWidth()
   window.addEventListener('resize', checkBodyWidth)
   setInterval(()=>{
     gsap.utils.toArray(".fadeUp").forEach((item)=>{
@@ -31,26 +60,13 @@ onMounted(() => {
       })
     })
   },1000)
-
+  elfScroll()
 });
 </script>
 
 <template>
   <div class="">
-    <header class="z-1 fixed w-full top-34px right-10% flex justify-end">
-      <div class="mr-30px abFont text-20px md:text-24px text-white font-bold">THE F2E</div>
-      <div class="lg:hidden">
-        <img src="@/assets/images/header/menu_btn.svg" alt="">
-      </div>
-      <div class="hidden lg:flex bg-white px-10px relative after:bg-primary2 after:w-356px after:h-36px">
-        <div class="z--1 absolute bg-#6633FF w-356px h-36px right--5px bottom--5px"></div>
-        <div class="nsFont font-bold py-10px px-10px">關卡資訊</div>
-        <div class="nsFont font-bold py-10px px-10px">作品列表</div>
-        <div class="nsFont font-bold py-10px px-10px">攻略資源</div>
-        <div class="nsFont font-bold py-10px px-10px">求職專區</div>
-      </div>
-
-    </header>
+    <Header></Header>
 
     <!-- 區塊一   class="flex flex-col pt-10px items-center overflow-x-hidden bg-black h-965px">-->
     <section class="relative flex flex-col justify-between overflow-hidden py-20px h-965px bg-black">
@@ -100,9 +116,20 @@ onMounted(() => {
           <span>UI DESIGN FRONTEND UI DESIGN FRONTEND UI DESIGN FRONTEND</span>
         </div>
       </div>
+      <!-- 小精靈 -->
+      <img class="elf-1 absolute top--50px left-[60px] w-[80px] md:w-[160px]" src="@/assets/images/section1/elfBlue.svg">
+      <div class="elf-2 flex w-full absolute bottom--50px md:bottom--130px left-[40px]">
+        <img class="w-[60px] md:w-[130px] mr-16px" src="@/assets/images/section1/elfPurple.svg">
+        <img class="w-[60px] md:w-[130px]" src="@/assets/images/section1/elfRed.svg">
+      </div>
+      <img class="elf-3 box absolute bottom--90px md:bottom--240p right-0 w-[90px] md:w-[240px]" src="@/assets/images/section1/elfYellow.svg">
     </section>
     <!-- 區塊二 -->
     <Section2></Section2>
+    <!-- 區塊三 -->
+    <Section3></Section3>
+    <Section4></Section4>
+    <section class="w-full h-100vh"></section>
   </div>
 </template>
 
