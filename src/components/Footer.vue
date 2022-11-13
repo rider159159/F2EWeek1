@@ -88,23 +88,23 @@
         <div class="text-primary2 font-bold nsFont text-20px leading-29px">資深前端工程師</div>
         <div class="text-primary2 font-bold nsFont text-20px leading-29px mb-5px">  Sr.Front-End Developer</div>
         <div class="text-black font-bold mb-10px nsFont">900K~1.2M / 年</div>
-        <a href="" class="inline-block text-#FFD44D decoration-none leading-20px py-4px px-20px font-bold text-14px bg-#131415">應徵</a>
+        <a href="https://blockstudio.tw/career/" target="_blank" class="inline-block text-#FFD44D decoration-none leading-20px py-4px px-20px font-bold text-14px bg-#131415">應徵</a>
       </div>
       <div class="col-span-12 xl:col-span-4 px-40px">
         <div class="text-primary2 font-bold nsFont text-20px leading-29px">資深前端工程師</div>
         <div class="text-primary2 font-bold nsFont text-20px leading-29px mb-5px">Front-End Developer</div>
         <div class="text-black font-bold mb-10px nsFont">650K~720K / 年</div>
-        <a href="" class="inline-block text-#FFD44D decoration-none leading-20px py-4px px-20px font-bold text-14px bg-#131415">應徵</a>
+        <a href="https://blockstudio.tw/career/" target="_blank" class="inline-block text-#FFD44D decoration-none leading-20px py-4px px-20px font-bold text-14px bg-#131415">應徵</a>
       </div>
       <div class="col-span-12 xl:col-span-4 px-40px">
         <div class="text-primary2 font-bold nsFont text-20px leading-29px">品牌行銷</div>
         <div class="text-primary2 font-bold nsFont text-20px leading-29px mb-5px">Brand Marketing</div>
         <div class="text-black font-bold mb-10px nsFont">900K~1.2M / 年</div>
-        <a href="" class="inline-block text-#FFD44D decoration-none leading-20px py-4px px-20px font-bold text-14px bg-#131415">應徵</a>
+        <a href="https://blockstudio.tw/career/" target="_blank" class="inline-block text-#FFD44D decoration-none leading-20px py-4px px-20px font-bold text-14px bg-#131415">應徵</a>
       </div>
         <div class="w-full absolute left-0px right-0px bottom--20px flex items-center">
           <span class="w-full h-5px block bg-#131415 mr-10px"></span>
-          <a class="inline-block break-keep px-10px text-#FFD44D decoration-none leading-20px py-8px px-32px font-bold text-14px bg-#6633FF" href="">查看更多</a>
+          <a target="_blank" class="inline-block break-keep px-10px text-#FFD44D decoration-none leading-20px py-8px px-32px font-bold text-14px bg-#6633FF" href="https://blockstudio.tw/career/">查看更多</a>
           <span class="w-full h-5px block bg-#131415 ml-10px"></span>
       </div>
     </div>
@@ -122,23 +122,23 @@
         <!-- <div class="text-primary2 font-bold nsFont text-20px leading-29px">資深前端工程師</div> -->
         <div class="text-primary2 font-bold nsFont text-20px leading-29px mb-5px">Software Engineer / Programmer 軟體工程師(台北、台中、高雄)</div>
         <div class="text-black font-bold mb-10px nsFont">50K 以上 / 月</div>
-        <a href="" class="inline-block text-#FFD44D decoration-none leading-20px py-4px px-20px font-bold text-14px bg-#131415">應徵</a>
+        <a href="https://www.104.com.tw/company/1a2x6bin60?jobsource=cs_2018indexpoc" target="_blank" class="inline-block text-#FFD44D decoration-none leading-20px py-4px px-20px font-bold text-14px bg-#131415">應徵</a>
       </div>
       <div class="col-span-12 xl:col-span-4 px-40px">
         <!-- <div class="text-primary2 font-bold nsFont text-20px leading-29px">資深前端工程師</div> -->
         <div class="text-primary2 font-bold nsFont text-20px leading-29px mb-5px">Front-End Software Engineer / Programmer 前端軟體工程師(台中市政府旁)</div>
         <div class="text-black font-bold mb-10px nsFont">45K 以上 / 月</div>
-        <a href="" class="inline-block text-#FFD44D decoration-none leading-20px py-4px px-20px font-bold text-14px bg-#131415">應徵</a>
+        <a href="https://www.104.com.tw/company/1a2x6bin60?jobsource=cs_2018indexpoc" target="_blank" class="inline-block text-#FFD44D decoration-none leading-20px py-4px px-20px font-bold text-14px bg-#131415">應徵</a>
       </div>
       <div class="col-span-12 xl:col-span-4 px-40px">
         <!-- <div class="text-primary2 font-bold nsFont text-20px leading-29px">資深前端工程師</div> -->
         <div class="text-primary2 font-bold nsFont text-20px leading-29px mb-5px">Product Designer(台北、高雄)</div>
         <div class="text-black font-bold mb-10px nsFont">40K 以上/ 月</div>
-        <a href="" class="inline-block text-#FFD44D decoration-none leading-20px py-4px px-20px font-bold text-14px bg-#131415">應徵</a>
+        <a href="https://www.104.com.tw/company/1a2x6bin60?jobsource=cs_2018indexpoc" target="_blank" class="inline-block text-#FFD44D decoration-none leading-20px py-4px px-20px font-bold text-14px bg-#131415">應徵</a>
       </div>
         <div class="w-full absolute left-0px right-0px bottom--20px flex items-center">
           <span class="w-full h-5px block bg-#131415 mr-10px"></span>
-          <a class="inline-block break-keep px-10px text-#FFD44D decoration-none leading-20px py-8px px-32px font-bold text-14px bg-#6633FF" href="">查看更多</a>
+          <a target="_blank" class="inline-block break-keep px-10px text-#FFD44D decoration-none leading-20px py-8px px-32px font-bold text-14px bg-#6633FF" href="https://www.104.com.tw/company/1a2x6bin60">查看更多</a>
           <span class="w-full h-5px block bg-#131415 ml-10px"></span>
       </div>
     </div>
@@ -156,23 +156,23 @@
         <!-- <div class="text-primary2 font-bold nsFont text-20px leading-29px">軟體助理工程師(台北)</div> -->
         <div class="text-primary2 font-bold nsFont text-20px leading-29px mb-5px">軟體助理工程師(台北)</div>
         <div class="text-black font-bold mb-10px nsFont">待遇面議</div>
-        <a href="" class="inline-block text-#FFD44D decoration-none leading-20px py-4px px-20px font-bold text-14px bg-#131415">應徵</a>
+        <a href="https://kdanmobile.teamdoor.io/s/ZO0dKYaI" target="_blank" class="inline-block text-#FFD44D decoration-none leading-20px py-4px px-20px font-bold text-14px bg-#131415">應徵</a>
       </div>
       <div class="col-span-12 md:col-span-6 xl:col-span-4 px-40px">
         <!-- <div class="text-primary2 font-bold nsFont text-20px leading-29px">前端工程師</div> -->
         <div class="text-primary2 font-bold nsFont text-20px leading-29px mb-5px"> 前端工程師(台南)</div>
         <div class="text-black font-bold mb-10px nsFont">待遇面議</div>
-        <a href="" class="inline-block text-#FFD44D decoration-none leading-20px py-4px px-20px font-bold text-14px bg-#131415">應徵</a>
+        <a href="https://kdanmobile.teamdoor.io/s/qh6R4I5o" target="_blank" class="inline-block text-#FFD44D decoration-none leading-20px py-4px px-20px font-bold text-14px bg-#131415">應徵</a>
       </div>
       <div class="col-span-12 md:col-span-6 xl:col-span-4 px-40px">
         <!-- <div class="text-primary2 font-bold nsFont text-20px leading-29px">品牌行銷</div> -->
         <div class="text-primary2 font-bold nsFont text-20px leading-29px mb-5px"> 後端工程師 Back-End Engineer(台南)</div>
         <div class="text-black font-bold mb-10px nsFont">900K~1.2M / 年</div>
-        <a href="" class="inline-block text-#FFD44D decoration-none leading-20px py-4px px-20px font-bold text-14px bg-#131415">應徵</a>
+        <a href="https://kdanmobile.teamdoor.io/s/EoK6qe57" target="_blank" class="inline-block text-#FFD44D decoration-none leading-20px py-4px px-20px font-bold text-14px bg-#131415">應徵</a>
       </div>
         <div class="w-full absolute left-0px right-0px bottom--20px flex items-center">
           <span class="w-full h-5px block bg-#131415 mr-10px"></span>
-          <a class="inline-block break-keep px-10px text-#FFD44D decoration-none leading-20px py-8px px-32px font-bold text-14px bg-#6633FF" href="">查看更多</a>
+          <a target="_blank" class="inline-block break-keep px-10px text-#FFD44D decoration-none leading-20px py-8px px-32px font-bold text-14px bg-#6633FF" href="https://www.yourator.co/companies/KdanMobile?locale=zh-TW">查看更多</a>
           <span class="w-full h-5px block bg-#131415 ml-10px"></span>
       </div>
     </div>
