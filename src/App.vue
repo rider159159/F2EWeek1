@@ -129,7 +129,8 @@ onMounted(() => {
     <!-- 區塊三 -->
     <Section3></Section3>
     <Section4></Section4>
-    <section class="w-full h-100vh"></section>
+
+    <Footer></Footer>
   </div>
 </template>
 
