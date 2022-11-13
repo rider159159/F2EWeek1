@@ -16,13 +16,13 @@
     </div>
     <div class="grid z-0 relative grid-cols-12 gap-y-28px py-40px border-x-5px border-black bg-white mb-70px">
       <div class="col-span-12 md:col-span-6 xl:col-span-4 px-48px">
-        <img class="w-full" src="@/assets/images/footer/blockstudio_logo 1.png" alt="">
+        <img class="w-full" src="@/assets/images/footer/blockstudio_logo1.png" alt="">
       </div>
       <div class="col-span-12 md:col-span-6 xl:col-span-4 px-48px">
-        <img class="w-full" src="@/assets/images/footer/titan_logo 1.png" alt="">
+        <img class="w-full" src="@/assets/images/footer/titan_logo1.png" alt="">
       </div>
       <div class="col-span-12 md:col-span-6 xl:col-span-4 px-48px">
-        <img class="w-full" src="@/assets/images/footer/kdan_logo 1.png" alt="">
+        <img class="w-full" src="@/assets/images/footer/kdan_logo1.png" alt="">
       </div>
         <div class="w-full absolute left-0px right-0px bottom--20px">
         <img class="w-full xl:hidden" src="@/assets/images/footer/border_bottom.svg" alt="">
@@ -78,7 +78,7 @@
     <div class="relative z-5 translate-y-1/2 flex cnFont items-center">
       <span class="translate-x-5px w-[calc(50%-102px)] h-5px block bg-#131415"></span>
       <div class="flex text-30px px-10px">
-        <img class="block w-40px mr-10px h-40px" src="@/assets/images/footer/blockstudio_logo 1.png" alt="">
+        <img class="block w-40px mr-10px h-40px" src="@/assets/images/footer/blockstudio_logo1.png" alt="">
         <h3 class="z-1 text-black">板塊設計</h3>
       </div>
       <span class="w-[calc(50%-102px)] h-5px block bg-#131415"></span>
@@ -112,7 +112,7 @@
     <div class="relative z-5 translate-y-1/2 flex cnFont items-center">
       <span class="translate-x-5px w-[calc(50%-165px)] h-5px block bg-#131415"></span>
       <div class="flex text-30px px-10px">
-        <img class="block w-40px mr-10px h-40px" src="@/assets/images/footer/titan_logo 1.png" alt="">
+        <img class="block w-40px mr-10px h-40px" src="@/assets/images/footer/titan_logo1.png" alt="">
         <h3 class="z-1 text-black">新加坡商鈦坦科技</h3>
       </div>
       <span class="w-[calc(50%-165px)] h-5px block bg-#131415"></span>
@@ -146,7 +146,7 @@
     <div class="relative z-5 translate-y-1/2 flex cnFont items-center">
       <span class="w-[calc(50%-134px)] translate-x-5px h-5px block bg-#131415"></span>
       <div class="flex text-30px px-10px">
-        <img class="block w-40px mr-10px h-40px" src="@/assets/images/footer/kdan_logo 1.png" alt="">
+        <img class="block w-40px mr-10px h-40px" src="@/assets/images/footer/kdan_logo1.png" alt="">
         <h3 class="z-1 text-black">凱鈿行動科技</h3>
       </div>
       <span class="w-[calc(50%-134px)] h-5px block bg-#131415"></span>
