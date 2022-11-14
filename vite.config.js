@@ -9,7 +9,7 @@ import * as path from 'path';
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/2022-f2e-week1/',
+  base: '/F2EWeek1/',
   resolve: {
     alias: [
       { find: '@', replacement: path.resolve(__dirname, 'src') },
