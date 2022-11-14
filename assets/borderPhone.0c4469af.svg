@@ -1,0 +1,16 @@
+<svg width="342" height="302" viewBox="0 0 342 302" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="6" y="6.00049" width="278" height="6" transform="rotate(90 6 6.00049)" fill="white"/>
+<rect x="342" y="6.00049" width="278" height="6" transform="rotate(90 342 6.00049)" fill="white"/>
+<rect x="6" y="0.00292969" width="330" height="6" fill="white"/>
+<rect x="6" y="283.999" width="260" height="6" fill="white"/>
+<path d="M272 289.999H278V295.999H272V289.999Z" fill="white"/>
+<path d="M290 283.999H296V289.999H290V283.999Z" fill="white"/>
+<path d="M266 283.999H272V289.999H266V283.999Z" fill="white"/>
+<path d="M278 295.999H284V301.999H278V295.999Z" fill="white"/>
+<path d="M284 289.999H290V295.999H284V289.999Z" fill="white"/>
+<path d="M278 289.999H284V295.999H278V289.999Z" fill="white" fill-opacity="0.1"/>
+<path d="M278 283.999H284V289.999H278V283.999Z" fill="white" fill-opacity="0.1"/>
+<path d="M284 283.999H290V289.999H284V283.999Z" fill="white" fill-opacity="0.1"/>
+<path d="M272 283.999H278V289.999H272V283.999Z" fill="white" fill-opacity="0.1"/>
+<rect x="296" y="283.999" width="40" height="6" fill="white"/>
+</svg>

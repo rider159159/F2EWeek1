@@ -1,0 +1,16 @@
+<svg width="130" height="65" viewBox="0 0 130 65" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="4.99991" y="5" width="43" height="5" transform="rotate(90 4.99991 5)" fill="#131415"/>
+<rect x="130" y="5" width="43" height="5" transform="rotate(90 130 5)" fill="#131415"/>
+<rect x="5" width="120" height="5" fill="#131415"/>
+<rect x="4.99997" y="48" width="20" height="5" fill="#131415"/>
+<path d="M30 53H35V58H30V53Z" fill="#131415"/>
+<path d="M45 48H50V53H45V48Z" fill="#131415"/>
+<path d="M25 48H30V53H25V48Z" fill="#131415"/>
+<path d="M35 58H40V63H35V58Z" fill="#131415"/>
+<path d="M40 53H45V58H40V53Z" fill="#131415"/>
+<path d="M35 53H40V58H35V53Z" fill="white" fill-opacity="0.8"/>
+<path d="M35 48H40V53H35V48Z" fill="white" fill-opacity="0.8"/>
+<path d="M40 48H45V53H40V48Z" fill="white" fill-opacity="0.8"/>
+<path d="M30 48H35V53H30V48Z" fill="white" fill-opacity="0.8"/>
+<rect x="50" y="48" width="75" height="5" fill="#131415"/>
+</svg>
