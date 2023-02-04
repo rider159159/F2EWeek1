@@ -84,7 +84,7 @@ onMounted(() => {
     <div class="h-60px overflow-hidden relative">
       <div class="w-200% h-60px absolute overflow-hidden enFont text-60px  text-primary2 opacity-20">
         <!-- <span v-for="index in 50" :key="`time-${index}`">UI DESIGN FRONTEND UI DESIGN FRONTEND UI DESIGN FRONTEND</span> -->
-        <Marquee title="UI DESIGN FRONTEND"></Marquee>
+        <Marquee title="UI DESIGN FRONTEND "></Marquee>
       </div>
     </div>
     <!-- 中間區塊 -->

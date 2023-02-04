@@ -28,8 +28,8 @@
 
 <template>
   <div class="marquee">
-    <span v-for="index in 20" :key="`to-marquee-${index}`">
-      {{ titleRef }}
+    <span v-for="index in 100" :key="`to-marquee-${index}`">
+      {{ titleRef }} 
     </span>
   </div>
 </template>
