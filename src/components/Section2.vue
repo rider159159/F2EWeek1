@@ -43,7 +43,6 @@ function section2Gsap(){
       })
     },
     "(min-width: 1280px)": () => { 
-      console.log('test3')
       gsap.to(".section2-purple", {
         x:40 ,
         duration: 3,
