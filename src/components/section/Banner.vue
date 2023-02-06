@@ -43,37 +43,19 @@ function elfScroll(){
   })
 }
 
-let timeHandle = null
-function checkTimeout() {
-  if(timeHandle){
-    console.log('clear')
-    clearTimeout(timeHandle);
-  }
-  timeHandle = setTimeout(() => {
-    boxRandom()
-    checkTimeout()
-  }, 1000);
-}
-
 function boxRandom() {
-  gsap.utils.toArray(".fadeUp").forEach((item) => {
-    gsap.fromTo(item, {
-      opacity: 'random(0.1,1,.5)',
-      duration: 2.5
-    },
-    {
-      opacity: 'random(0.1,0.9,.5)',
-      duration: 2.5,
-      ease: 'back',
-      repeat: -1
-    })
+  gsap.to('.box-1', {
+    opacity: gsap.utils.random([0.1,1,.5],true),
+    duration: 1,
+    onComplete: boxRandom,
+    ease: 'back',
   })
 }
 
 onMounted(() => {
   window.addEventListener('resize', checkBodyWidth)
   checkBodyWidth()
-  checkTimeout()
+  boxRandom()
   elfScroll()
 });
 </script>
@@ -83,7 +65,7 @@ onMounted(() => {
     <!-- 跑馬燈1 -->
     <div class="h-60px relative">
       <!-- <span v-for="index in 50" :key="`time-${index}`">UI DESIGN FRONTEND UI DESIGN FRONTEND UI DESIGN FRONTEND</span> -->
-      <Marquee title="UI DESIGN FRONTEND "></Marquee>
+      <Marquee title="UI DESIGN FRONTEND &nbsp"></Marquee>
     </div>
     <!-- 中間區塊 -->
     <div class="relative py-[172px]">
@@ -110,7 +92,7 @@ onMounted(() => {
         </div>
       </div>
       <div class="absolute top-0 flex flex-wrap justify-center items-center">
-        <div v-for="item in boxNum" :key="item" class="fadeUp bg-#6633FF w-80px h-80px md:w-100px md:h-100px xl:w-120px xl:h-120px"></div>
+        <div v-for="item in boxNum" :key="item" class="fadeUp box-1 bg-#6633FF w-80px h-80px md:w-100px md:h-100px xl:w-120px xl:h-120px"></div>
       </div>
     </div>
     <!-- 跑馬燈2 -->
@@ -122,6 +104,7 @@ onMounted(() => {
         <span>UI DESIGN FRONTEND UI DESIGN FRONTEND UI DESIGN FRONTEND</span>
       </div>
     </div>
+    <Marquee title="UI DESIGN FRONTEND &nbsp" :reserve="false"></Marquee>
     <!-- 小精靈 -->
     <img class="elf-1 absolute top--50px left-[60px] w-[80px] md:w-[160px]" src="@/assets/images/section1/elfBlue.svg">
     <div class="elf-2 flex w-full absolute bottom--50px md:bottom--130px left-[40px]">
